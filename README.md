@@ -1,0 +1,2 @@
+# Dungeon-Game
+A dungeon game where you have to kill the vampires 'v' inside the dungeon. The player '@' can move up, down, right, and left. You have a limited number of moves to try and kill all the vampires to win. For every step the player takes in each move, the vampires randomly take a step right, left, up, or down as well. Vampires don't move if there is a vampire already at that location or they are at the edge of the map. If vampire randomly moves to where the player is at, it dies.
